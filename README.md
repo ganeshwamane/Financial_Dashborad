@@ -3,9 +3,9 @@ It is a Finance Dashboard UI only the frontend portion, where you will manage yo
 
 A modern, interactive personal finance dashboard built with **React** and **Tailwind CSS**. Designed for clarity, performance, and a polished user experience — without looking like a generic template.
 
-GITHUB LINK : https://github.com/Sanketmaity/Expance_Tracker_MoneyIT
+GITHUB LINK  : https://github.com/ganeshwamane/Financial_Dashborad?tab=readme-ov-file
 
-Live Link : https://moneyit.netlify.app/
+Live Link : http://localhost:3000/
 ---
 
 ## 🖼️ Overview
@@ -31,7 +31,7 @@ FinTrack lets users track income, expenses, and financial patterns through an in
 | Export Functionality (CSV + JSON) | ✅ |
 | Empty / No Data States | ✅ |
 | Add / Edit / Delete Transactions (Admin only) | ✅ |
-| Pagination | ✅ |
+
 
 ---
 
@@ -174,34 +174,5 @@ Toggle available in the sidebar footer. The preference is applied immediately an
 
 ---
 
-## 📤 Export
 
-From the Transactions page, use the **Export** dropdown to download:
-- `transactions.csv` — filtered results as CSV
-- `transactions.json` — filtered results as JSON
 
-Exports always reflect the current filter state.
-
----
-
-## 🔮 Potential Enhancements
-
-- Connect to a real backend (Node + Express, Supabase, Firebase)
-- Persist dark mode preference in localStorage
-- Add budget/goal tracking per category
-- Email summary reports
-- Multi-currency support
-- Advanced date range presets (This Month, Last 30 Days, YTD)
-
----
-
-## 👤 Author
-
-Built as part of a frontend development evaluation assignment.  
-Feel free to reach out with feedback or questions.
-
----
-
-## 📄 License
-
-MIT — free to use, modify, and distribute.
